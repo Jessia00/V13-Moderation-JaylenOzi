@@ -1,9 +1,9 @@
 {
-  "token": "OTMwMTkzMDk3MjU2NzU5MzQ3.GKvfAM.QDfs_Y3TGNxgpl-Xj8g_eaxyqKJ3UpGfVbATdM",
+  "token": "",
   "prefix": [".","!","r!"],
   "guildID": "1015392710489817149",
   "BotClientID": "930193097256759347",
-  "mongoUrl": "mongodb+srv://Wasley:Drty2365@cluster0.tcrum.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "mongoUrl": "",
   "owners": ["598974473374400512","938074325129494548"],
   "botDurum": "Created By Wasley ❤️",
   "botSes": "1020961414787108864",
